@@ -5,56 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afd2638-21ca-4171-8434-c3134c9ad8d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca673cf1-23e4-4b72-adb6-37eab3aa657e.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca673cf1-23e4-4b72-adb6-37eab3aa657e/storage_v2/_src_/database/students.mMXRbw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca673cf1-23e4-4b72-adb6-37eab3aa657e/storage_v2/_src_/database/students.mMXRbw/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca673cf1-23e4-4b72-adb6-37eab3aa657e/storage_v2/_src_/database/students.mMXRbw/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ca673cf1-23e4-4b72-adb6-37eab3aa657e/storage_v2/_src_/database/students.mMXRbw/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mk/ukim/finki/wp/kol2022/g2/SeleniumScenarioTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mk/ukim/finki/wp/kol2022/g2/selenium/AbstractPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mk/ukim/finki/wp/kol2022/g2/selenium/AddOrEditForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mk/ukim/finki/wp/kol2022/g2/selenium/ItemsPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mk/ukim/finki/wp/kol2022/g2/selenium/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/Kol2022Group2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/Kol2022Group2Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/config/DataInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/config/DataInitializer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/config/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/StudentType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/StudentType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/exceptions/InvalidCourseIdException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/exceptions/InvalidCourseIdException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/exceptions/InvalidEmailException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/exceptions/InvalidEmailException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/exceptions/InvalidStudentIdException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/model/exceptions/InvalidStudentIdException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/repository/CourseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/repository/CourseRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/repository/StudentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/repository/StudentRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/CourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/CourseService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/StudentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/impl/CourseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/impl/CourseServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/service/impl/StudentServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/web/CourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/web/CourseController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/web/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mk/ukim/finki/wp/kol2022/g2/web/StudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/CodeExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/CodeExtractor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/ExamAssert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/ExamAssert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/ExamAssertionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/ExamAssertionException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/FailedSubmissionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/FailedSubmissionException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/LoadSolution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/LoadSolution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/LoadSolution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/LoadSolution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/LoadSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/LoadSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/SubmissionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/exam/util/SubmissionHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/kol2022/g2/SeleniumScenarioTest$ViewMatcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/kol2022/g2/SeleniumScenarioTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/kol2022/g2/selenium/AbstractPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/kol2022/g2/selenium/AddOrEditForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/kol2022/g2/selenium/ItemsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mk/ukim/finki/wp/kol2022/g2/selenium/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,40 +15,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2iBv9plx0Q2PQ4qJr1IlHNXULKY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.Kol2022Group2Application.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Kol2022Group2Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.Kol2022Group2Application">
     <configuration name="Kol2022Group2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -136,7 +87,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718976640300</updated>
-      <workItem from="1718976657559" duration="1307000" />
+      <workItem from="1718976657559" duration="1847000" />
+      <workItem from="1718978747708" duration="823000" />
     </task>
     <servers />
   </component>
