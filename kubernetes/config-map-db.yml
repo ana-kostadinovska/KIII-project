@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: db-config
+  namespace: devops
+data:
+  POSTGRES_USER: kiii
+  POSTGRES_DB: students

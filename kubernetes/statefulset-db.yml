@@ -19,6 +19,9 @@ spec:
         image: postgres:latest
         ports:
         - containerPort: 5432
+        envFrom:
+        - configMapRef:
+            name: db-config
         env:
         - name: POSTGRES_USER
           valueFrom:
@@ -46,4 +49,3 @@ spec:
       resources:
         requests:
           storage: 1Gi
-

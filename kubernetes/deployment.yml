@@ -4,7 +4,7 @@ metadata:
   name: devops-app
   namespace: devops
 spec:
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
       app: devops-app
@@ -18,9 +18,12 @@ spec:
         image: akostadinovska/students-app:latest
         ports:
         - containerPort: 9090
+        envFrom:
+        - configMapRef:
+            name: app-config
         env:
         - name: SPRING_DATASOURCE_URL
-          value: "jdbc:postgresql://devops-db:5432/students"
+          value: jdbc:postgresql://devops-db:5432/students
         - name: SPRING_DATASOURCE_USERNAME
           valueFrom:
             secretKeyRef:
