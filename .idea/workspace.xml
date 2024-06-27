@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8afd2638-21ca-4171-8434-c3134c9ad8d9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mk/ukim/finki/wp/kol2022/g2/web/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mk/ukim/finki/wp/kol2022/g2/web/StudentController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +101,8 @@
       <workItem from="1719218558293" duration="9440000" />
       <workItem from="1719315312636" duration="3397000" />
       <workItem from="1719393748353" duration="4409000" />
+      <workItem from="1719423524075" duration="2120000" />
+      <workItem from="1719475166591" duration="1121000" />
     </task>
     <servers />
   </component>
